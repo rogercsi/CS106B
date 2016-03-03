@@ -1,2 +1,3 @@
 .DS_Store
-
+*.xcodeproj
+/assignment4/Boggle/Boggle/*

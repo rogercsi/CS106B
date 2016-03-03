@@ -1,7 +1,7 @@
 import sys
 
 
-def countUniqueChars(filename, out=False):
+def countUniqueChars(filename, out=True):
     """
     returns number of unique chars in a given textfile
 
