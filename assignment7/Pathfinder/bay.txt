@@ -1,0 +1,27 @@
+us.bmp
+NODES
+SanRaphael
+Vallejo
+Berkeley
+SanFrancisco
+Oakland
+Hayward
+PaloAlto
+Fremont
+Sunnyvale
+SanJose
+ARCS
+SanRaphael Vallejo 28
+SanRaphael Berkeley 30
+SanRaphael SanFrancisco 19
+Vallejo Berkeley 22
+Berkeley Oakland 10
+SanFrancisco Oakland 23
+SanFrancisco PaloAlto 25
+Hayward Oakland 18
+Hayward Fremont 17
+Fremont PaloAlto 21
+Fremont Sunnyvale 13
+Fremont SanJose 14
+Sunnyvale PaloAlto 15
+Sunnyvale SanJose 11
